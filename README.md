@@ -21,4 +21,4 @@ The platform brings together various features that make it a must-have app for a
 
 
 ### Login Page
-![desktop login](https://i.imgur.com/plRRI3d.png)
+![desktop login](https://i.imgur.com/BG1C7fd.png)

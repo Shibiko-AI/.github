@@ -20,6 +20,5 @@ The social media aspect enables users to be part of a community while enjoying t
 Overall, Shibiko AI offers an exciting way for users to generate custom anime-style images and interact with fellow community members. 
 The platform brings together various features that make it a must-have app for anime enthusiasts.
 
-
 ### Login Page
-![desktop login](https://i.imgur.com/BG1C7fd.png)
+![desktop login](https://i.imgur.com/fGarSvz.png)

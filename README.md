@@ -9,6 +9,7 @@
 - [Goals](#Goals)
 
 <br>
+
 ## Overview
 **Shibiko AI**
 

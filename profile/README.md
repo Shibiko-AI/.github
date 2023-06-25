@@ -1,11 +1,12 @@
 # Shibiko AI
 
+(currently in beta)
+
 [Live Website](https://shibiko.ai/)
 
 <br />
 
 - [Overview](#Overview)
-- [MVP](#MVP)
 - [Goals](#Goals)
 
 <br>
@@ -22,3 +23,12 @@ The platform brings together various features that make it a must-have app for a
 
 ### Login Page
 ![desktop login](https://i.imgur.com/fGarSvz.png)
+
+
+## Goals
+- Generate Anime Waifus ✔️
+- Customize prompts (positive and negative) ✔️
+- Choose LoRAs ✔️
+- Social media elements such as followers, likes, and profile pages. ✔️
+- Paid membership tiers 🔨
+  

@@ -8,7 +8,8 @@
 
 - [Overview](#Overview)
 - [Goals](#Goals)
-
+- [Changelog](#Changelog)
+  
 <br>
 
 ## Overview
@@ -33,4 +34,28 @@ The platform brings together various features that make it a must-have app for a
 - Choose LoRAs ✔️
 - Social media elements such as followers, likes, and profile pages. ✔️
 - Paid membership tiers 🔨
+
+
+## Changelog
+
+### 6-18-2023
+- users can now like photos
+
+### 6-21-2023
+- users can now pin their created images which will be displayed first in their profile
   
+### 6-22-2023
+- users can now update their bio and username in the profile page
+- NSFW generated images now get blurred after creation or when visited (which can get unblurred by clicking on the eye button)
+
+### 6-23-2023
+- users can now follow and unfollow other users, and check who they followed in their profile page.
+- users can check posts made by who they follow in the home page.
+- users can view posts that a user/themselves liked in that users profile page.
+
+### 6-24-2023
+- users can now choose which LoRAs to use (weight and order as well) before generating an image
+
+### 6-25-2023
+- users can now view and update their socials in the profile page, and click on the links
+

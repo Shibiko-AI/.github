@@ -26,7 +26,7 @@ The platform brings together various features that make it a must-have app for a
 ![desktop login](https://i.imgur.com/fGarSvz.png)
 
 ### Profile Page
-![desktop profile](https://i.imgur.com/uLsiun7.png)
+![desktop profile](https://i.imgur.com/YeWs5KJ.png)
 
 ## Goals
 - Generate Anime Waifus ✔️

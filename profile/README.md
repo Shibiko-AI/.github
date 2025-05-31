@@ -18,3 +18,5 @@ The platform brings together various features that make it a must-have app for a
 
 ### Profile Page
 ![desktop profile](https://i.imgur.com/YeWs5KJ.png)
+
+<br>

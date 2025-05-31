@@ -3,8 +3,6 @@
 (currently in beta)
 
 [Live Website](https://beta.shibiko.ai/)
-  
-<br>
 
 ## Overview
 **Shibiko AI**

@@ -1,8 +1,5 @@
 # Shibiko AI
-
-(currently in beta)
-
-[Live Website](https://beta.shibiko.ai/)
+[Live Website](https://beta.shibiko.ai/) (currently in beta)
 
 ## Overview
 **Shibiko AI**
@@ -21,4 +18,3 @@ The platform brings together various features that make it a must-have app for a
 
 ### Profile Page
 ![desktop profile](https://i.imgur.com/YeWs5KJ.png)
-

@@ -18,6 +18,9 @@ The platform brings together various features that make it a must-have app for a
 ### Login Page
 ![desktop login](https://i.imgur.com/fGarSvz.png)
 
+### Create Page
+![desktop create](https://i.imgur.com/a/pCZleah.png)
+
 ### Profile Page
 ![desktop profile](https://i.imgur.com/YeWs5KJ.png)
 

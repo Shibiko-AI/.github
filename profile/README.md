@@ -3,12 +3,6 @@
 (currently in beta)
 
 [Live Website](https://beta.shibiko.ai/)
-
-<br />
-
-- [Overview](#Overview)
-- [Goals](#Goals)
-- [Changelog](#Changelog)
   
 <br>
 
